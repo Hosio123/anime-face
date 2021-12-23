@@ -1,3 +1,2 @@
 # git-prac
-깃을 연습합시다
-hello hohoho
+깃을 연습합시다 - 프로젝트
